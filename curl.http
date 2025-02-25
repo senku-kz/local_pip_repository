@@ -1,0 +1,12 @@
+###
+GET http://127.0.0.1/numpy/
+
+###
+GET http://127.0.0.1/numpy/numpy-2.2.3-cp313-cp313-macosx_14_0_arm64.whl 
+
+###
+GET http://localhost:8080/simple/
+
+
+###
+GET http://localhost:8080/simple/numpy/
